@@ -5,7 +5,10 @@ Write a JS function in index.js that accepts 3 numbers as arguments and return t
 
 Export the function using default export syntax.
 
-Folder Structure:
+Folder Structure
+
+
+
 utilities
     - factorial
         - index.js         // contains a function that returns the factorial of the given number
